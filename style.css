@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(51, 3, 95);
+    color: white;
+}
+.BotaoVerde{
+    background-color: green;
+}
+.BotaoVermelho{
+    background-color: red;
+}
